@@ -1,0 +1,14 @@
+
+{
+  "name": "so-dashboard",
+  "version": "4.0.0",
+  "main": "cloud.js",
+  "scripts": {
+    "start": "node cloud.js",
+    "dev": "node cloud.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
